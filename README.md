@@ -1,1 +1,1 @@
-# 7_week_1_task
+# 8_week_2_task
